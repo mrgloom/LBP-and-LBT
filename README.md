@@ -10,6 +10,8 @@ http://bytefish.de/blog/local_binary_patterns/
 "Extended Set of Local Binary Patterns for Rapid Object Detection"
 http://cmp.felk.cvut.cz/~matas/papers/trefny-emb_lbp-cvww10.pdf
 
+RLBP
+http://www.cs.tut.fi/~mehta/rlbp
 ~~~
 
 Local Binary Test:
