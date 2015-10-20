@@ -18,10 +18,10 @@ http://www.edwardrosten.com/work/fast.html
 "Object Detection with Pixel Intensity Comparisons Organized in Decision
 Trees"
 http://arxiv.org/pdf/1305.4537v5.pdf
+https://github.com/nenadmarkus/pico
 
 "Unconstrained Face Detection" - Normalized Pixel Difference (NPD) 
 http://www.cse.msu.edu/biometrics/Publications/Face/LiaoJainLi_UnconstrainedFaceDetection_TechReport.pdf
-https://github.com/nenadmarkus/pico
 
 ~~~
 
