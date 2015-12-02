@@ -28,5 +28,8 @@ https://github.com/nenadmarkus/pico
 "Unconstrained Face Detection" - Normalized Pixel Difference (NPD) 
 http://www.cse.msu.edu/biometrics/Publications/Face/LiaoJainLi_UnconstrainedFaceDetection_TechReport.pdf
 
+"A Fast and Accurate Unconstrained Face Detector" - Normalized Pixel Difference (NPD) 
+https://github.com/biotrump/NPD
+
 ~~~
 
