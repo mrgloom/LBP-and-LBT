@@ -12,6 +12,10 @@ http://cmp.felk.cvut.cz/~matas/papers/trefny-emb_lbp-cvww10.pdf
 
 RLBP
 http://www.cs.tut.fi/~mehta/rlbp
+
+To look at:
+https://github.com/t0nyren/llbp
+
 ~~~
 
 Local Binary Test:
