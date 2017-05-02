@@ -13,6 +13,9 @@ http://cmp.felk.cvut.cz/~matas/papers/trefny-emb_lbp-cvww10.pdf
 RLBP
 http://www.cs.tut.fi/~mehta/rlbp
 
+MLBP
+https://github.com/Dining-Engineers/Multi-scale-Local-Binary-Pattern
+
 To look at:
 https://github.com/t0nyren/llbp
 
