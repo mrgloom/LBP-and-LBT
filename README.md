@@ -16,6 +16,9 @@ http://www.cs.tut.fi/~mehta/rlbp
 MLBP
 https://github.com/Dining-Engineers/Multi-scale-Local-Binary-Pattern
 
+LBP, LDP, LTrP, NR-LBP
+https://github.com/Ashwani21/Local-texture-descriptors
+
 To look at:
 https://github.com/t0nyren/llbp
 https://github.com/nourani/LBP
